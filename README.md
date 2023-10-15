@@ -1,7 +1,7 @@
 # todo
 
 MY FIRST TODO APP
-MADE BY THE HELP OF LB
+MADE BY THE HELP OF LOLLO B
 
 A new Flutter project.
 
