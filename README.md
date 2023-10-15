@@ -1,5 +1,8 @@
 # todo
 
+MY FIRST TODO APP
+MADE BY THE HELP OF LB
+
 A new Flutter project.
 
 ## Getting Started
